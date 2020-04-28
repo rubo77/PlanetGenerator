@@ -5,9 +5,10 @@ Influences: An earlier project that generated entire SF universes at a shallower
 
 Licensed as GPLv3. Other licenses available upon request. Feel free to [ask questions](mailto:zarkonnen@gmail.com) or [make suggestions](https://github.com/Zarkonnen/GenGen/issues).
 
-## Contributors ✨
-<table>
-  <tr>
-    <td align="center"><a href="https://www.effacestudios.com"><img src="https://avatars2.githubusercontent.com/u/33323258?s=96&v=4" width="100px;" alt=""/><br /><sub><b>Efface Studios</b></sub></a><br /></td>
-  </tr>
-</table>
+Icons by streamlineicons.com.
+
+## Additional Contributors ✨
+
+Thanks goes to these wonderful people:
+
+* [Efface Studios](https://www.effacestudios.com) Image Download Code
