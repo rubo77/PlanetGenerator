@@ -20,8 +20,13 @@ Start your local webserver with `server.py`. Then you can access the tool via ht
 - View/Set ID (I)
 - Random New Planet (R)
 
+## Online version
+
+The latest version runs at https://planetgenerator.spacetrace.org/
+
 ## Additional Contributors ✨
 
 Thanks goes to these wonderful people:
 
 * [Efface Studios](https://www.effacestudios.com) Image Download Code
+* [David Stark](https://github.com/Zarkonnen/GenGen) Upstream GenGen
