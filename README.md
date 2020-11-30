@@ -12,6 +12,14 @@ Icons by streamlineicons.com.
 
 Start your local webserver with `server.py`. Then you can access the tool via http://localhost:8000
 
+## Keyboard shortcuts
+
+- Download Text (T)
+- Download Image (D)
+- Switch to Map (M)
+- View/Set ID (I)
+- Random New Planet (R)
+
 ## Additional Contributors ✨
 
 Thanks goes to these wonderful people:
