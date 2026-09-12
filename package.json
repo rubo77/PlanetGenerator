@@ -1,0 +1,16 @@
+{
+  "name": "planetgenerator",
+  "version": "1.0.0",
+  "description": "A procedural planet generator that uses a clever templating system and a mildly terrifying shader to produce an endless stream of alien planets. The description, appearance, and basic stats are all linked properly, so if the description says the plants are blue, the vegetation-covered parts of the surface are shown as blue, and so on. It should also mostly avoid impossibilities like land-dwelling creatures on water worlds.",
+  "main": "jquery-3.2.0.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "playwright": "^1.63.0"
+  }
+}
